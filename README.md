@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sejalsrivastava1
-- 👀 I’m interested in interdisciplinary approaches to environmental engineering research, such as computational data analysis.
+- 👀 I’m interested in data science and software engineering.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me: ssriva27@jhu.edu
 
