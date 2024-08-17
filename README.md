@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sejalsrivastava1
-- 👀 I’m interested in data science and software engineering.
-- 🌱 I’m currently learning python.
-- 📫 How to reach me: ssriva27@jhu.edu
+- 📫 How to reach me: sejalsrivastava0123@gmail.com
 
 <!---
 sejalsrivastava1/sejalsrivastava1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
